@@ -1,4 +1,4 @@
-# Node.js EventLoop Visualizer
+# Node.js EventLoop Visualizer Client
 
 Added feature to support Node.js native API such as `setImmediate` & `process.nextTick`
 
